@@ -1,0 +1,30 @@
+{
+  "name": "better-router",
+  "version": "0.0.0",
+  "description": "better express router",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "better",
+    "express",
+    "router"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.5"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrejewski/better-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrejewski/better-router/issues"
+  },
+  "homepage": "https://github.com/andrejewski/better-router"
+}
